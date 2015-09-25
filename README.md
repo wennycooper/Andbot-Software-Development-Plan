@@ -14,8 +14,8 @@
 
 ## Auto-Upgrade over the air
 * Tablet as GUI 
-** Robot automatically check latest updates and download firmware in background
-** When firmware downloaded, prompt messages to user to confirm the upgrade
+ * Robot automatically check latest updates and download firmware in background
+ * When firmware downloaded, prompt messages to user to confirm the upgrade
  
 
 ## Telepresence and Teleop
