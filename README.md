@@ -2,7 +2,7 @@
 
 
 # Introduction
-This document describes Andbot software module list and development plan.
+* This document describes Andbot software module list and development plan.
 
 # High-Level User Scenarios
 
