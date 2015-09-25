@@ -14,8 +14,8 @@
 
 ## Auto-Upgrade over the air
 * Tablet as GUI 
- * Robot automatically check latest updates and download firmware in background
- * When firmware downloaded, prompt messages to user to confirm the upgrade
+* Robot automatically check latest updates and download firmware in background
+* When firmware downloaded, prompt messages to user to confirm the upgrade
  
 
 ## Telepresence and Teleop
@@ -39,7 +39,7 @@
 
 [Proposed Architecture in google doc](https://docs.google.com/drawings/d/1OLJy2XtJEqDVM9ngFmSA43X3o70QNqNm0j4HAXmmKoQ/edit?usp=sharing)
 
-# Technical Modules to be developed
+# Software Modules to be developed
 * To achieve above user scenarios, the following features needs to be implemented.  
 * Each feature should be formed as a software development project.  
 
