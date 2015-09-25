@@ -116,6 +116,7 @@ This document describes Andbot software module list and development plan.
 
 
 # Implementation Priorities & Schedules (draft)
+* Open Box app (Denis's team)
 * Auto Upgrade OTA (Taipei team)
 * Control by Mobile App (Denis's team)
 * Telepresence & Teleop (Denis's team)
