@@ -12,7 +12,7 @@
 * Mobile app to command the robot's base movement
 * Mobile app to command the robot's arms movement 
 
-## Auto-Upgrade over the air
+## Auto-Upgrade OTA(over the air)
 * Tablet as GUI 
 * Robot automatically check latest updates and download firmware in background
 * When firmware downloaded, prompt messages to user to confirm the upgrade
