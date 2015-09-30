@@ -117,18 +117,19 @@
 
 # Implementation Priorities & Schedules (draft)
 * Open Box app (Denis's team)
- * by End/Nov. 
+ * by End/Nov. 2015
 * Auto Upgrade OTA (Taipei team)
- * by End/Nov. 
+ * by End/Nov. 2015
 * Control by Mobile App (Denis's team)
- * by End/Dec.
+ * by End/Dec. 2015
 * Navigation & Obstacles Avoidance  (Taipei team)
- * by End/Nov.
+ * by End/Nov. 2015
 * SLAM (Taipei team)
- * by End/Dec.
+ * by End/Dec. 2015
 * Telepresence & Teleop (Denis's team)
  * by End/Jan. 2016 
-* Computer Vision & Object Recognition (TBD)
+* Computer Vision & Object Recognition (Taipei team)
+ * by End/Mar. 2016 
 * Speech Interaction (TBD)
 * Arms Manipulation (TBD)
 
