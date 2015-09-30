@@ -93,7 +93,7 @@
  * https://developer.android.com/reference/android/service/voice/VoiceInteractionService.html
  * http://developer.android.com/reference/android/speech/SpeechRecognizer.html
 * Full speech conversation is too difficult. Instead, we can go dialog-based and retrieve limited commands by keywords 
-* If necessary, the robot should respond with speech, e.g., "Yes, master".
+* If necessary, the robot should respond with speech, e.g., "Yes, master" or "No problem".
  * We can leverage Android's TextToSpeech service 
  * Refer to: http://developer.android.com/reference/android/speech/tts/TextToSpeech.html
 
@@ -117,11 +117,17 @@
 
 # Implementation Priorities & Schedules (draft)
 * Open Box app (Denis's team)
+ * by End/Nov. 
 * Auto Upgrade OTA (Taipei team)
+ * by End/Nov. 
 * Control by Mobile App (Denis's team)
-* Telepresence & Teleop (Denis's team)
+ * by End/Dec.
 * Navigation & Obstacles Avoidance  (Taipei team)
+ * by End/Nov.
 * SLAM (Taipei team)
+ * by End/Dec.
+* Telepresence & Teleop (Denis's team)
+ * by End/Jan. 2016 
 * Computer Vision & Object Recognition (TBD)
 * Speech Interaction (TBD)
 * Arms Manipulation (TBD)
