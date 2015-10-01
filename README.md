@@ -118,6 +118,7 @@
 # Implementation Priorities & Schedules (draft)
 * Open Box app (Denis's team)
  * by End/Nov. 2015
+ * ROS API for base and arm movement, by End/Oct. (Taipei team) 
 * Auto Upgrade OTA (Taipei team)
  * by End/Nov. 2015
 * Control by Mobile App (Denis's team)
@@ -130,7 +131,7 @@
  * by End/Jan. 2016 
 * Computer Vision & Object Recognition (Taipei team)
  * by End/Mar. 2016 
-* Speech Interaction (TBD)
+* Speech Interaction (Denis's team)
 * Arms Manipulation (TBD)
 
 
