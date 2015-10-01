@@ -66,7 +66,7 @@
 * This is for remote participation scenario. 
 * We MAY leverage "webrtc" technology to establish P2P video calls, which can penetrate most NATs/Firewalls.
 * App on Tablet
-* App on Mobile
+* App on Mobile phone
 * Refer to http://www.doublerobotics.com/ 
 * Refer to KKuei's work: https://github.com/oudeis/therobot/tree/master/webrtcProject
 
@@ -107,7 +107,7 @@
 
 ## Arms Manipulation
 * As above, once we know the relative positions, we can have wheels to move to close to the object or person.
-* Then we can leverage the inverse kinematics technology to have the robot arms and grasp to rotated to desired angles to get the object.
+* Then we can leverage the inverse kinematics(IK) technology to have the robot arms and grasp to rotated to desired angles to get the object.
 * Even more, the robot can carry the object and put it to somewhere destinated. 
 * We will leverage ROS MoveIt,  http://moveit.ros.org/
 
