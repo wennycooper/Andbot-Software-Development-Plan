@@ -51,7 +51,7 @@
 * Remotely auto-upgrade app on Tablet
 * Remotely auto-upgrade app on ROS board
 * Remotely auto-upgrade firmware on Arduino boards
-* Auto-Upgrade server and web UI on AWS
+* Auto-Upgrade server on AWS and web GUI for operation
 * Each robot will be assigned an unique "robotId"
 * Upgrade by specified "robotId"
 
