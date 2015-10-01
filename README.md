@@ -7,15 +7,15 @@
 # High-Level User Scenarios
 
 ## Open Box
-* Tablet app to guide the user to download mobile app and subsequent setup procedures
-* Mobile app to connect to robot and provisioning WiFi configuration to Andbot
-* Mobile app to command the robot's base movement
-* Mobile app to command the robot's arms movement 
+* Tablet app say hello to the world and guide the user to download mobile app on phone and subsequent setup procedures
+* User uses mobile app to connect to robot via BT and provisioning WiFi configurations to Andbot (Tablet & ROS board)
+* User uses mobile app to command the robot's base movement
+* User uses mobile app to command the robot's arms movement 
 
 ## Auto-Upgrade OTA(over the air)
 * Tablet as GUI 
-* Robot automatically check latest updates and download firmware in background
-* When firmware downloaded, prompt messages to user to confirm the upgrade
+* Robot automatically check for latest updates and download firmware in background
+* When firmware downloaded, prompt messages to user to confirm the upgrade execution
  
 
 ## Telepresence and Teleop
