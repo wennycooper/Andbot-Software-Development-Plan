@@ -56,13 +56,13 @@
 * Upgrade by specified "robotId"
 
 ## Control by Mobile App
-* Android mobile app
-* iOS mobile app
+* Android app
+* iOS app
 * GUI to control base movement
 * GUI to control arms movement
 * Taipei team will develop ROS API and Denis's team will develop mobile apps
  
-## Telepresence and Teleop
+## Telepresence
 * This is for remote participation scenario. 
 * We MAY leverage "webrtc" technology to establish P2P video calls, which can penetrate most NATs/Firewalls.
 * App on Tablet
@@ -105,7 +105,7 @@
 * The robot also must be able to recognize several specific objects, e.g., cups, bowls, door knob ...etc
 * Must be able to measure relative positions between the object and the robot.
 
-## Arms Manipulation
+## Arms Trajectory Control
 * As above, once we know the relative positions, we can have wheels to move to close to the object or person.
 * Then we can leverage the inverse kinematics(IK) technology to have the robot arms and grasp to rotated to desired angles to get the object.
 * Even more, the robot can carry the object and put it to somewhere destinated. 
@@ -121,18 +121,22 @@
  * ROS API for base and arm movement, by End/Oct. (Taipei team) 
 * Auto Upgrade OTA (Taipei team)
  * by End/Nov. 2015
-* Control by Mobile App (Denis's team)
- * by End/Dec. 2015
+* Control by Mobile App (Taipei team and Denis's team)
+ * Done by Taipei team on 2015/11/05
+ * Original plan is by End/Dec. 2015
 * Navigation & Obstacles Avoidance  (Taipei team)
- * by End/Nov. 2015
+ * Done on 2015/11/05
+ * Original plan is on End/Nov. 2015
 * SLAM (Taipei team)
- * by End/Dec. 2015
-* Telepresence & Teleop (Denis's team)
+ * Done in 2015/11/05
+ * Original plan is by End/Dec. 2015
+* Telepresence (Denis's team)
  * by End/Jan. 2016 
 * Computer Vision & Object Recognition (Taipei team)
  * by End/Mar. 2016 
 * Speech Interaction (Denis's team)
-* Arms Manipulation (TBD)
+* Arms Trajactory Control (Taipei team)
+ * by End/Jan. 
 
 
 # References
