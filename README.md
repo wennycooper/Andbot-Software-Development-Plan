@@ -120,7 +120,7 @@
  * by End/Nov. 2015
  * ROS API for base and arm movement, by End/Oct. (Taipei team) 
 * Auto Upgrade OTA (Taipei team)
- * by End/Nov. 2015
+ * by End/Dec. 2015
 * Control by Mobile App (Taipei team and Denis's team)
  * Done by Taipei team on 2015/11/05
  * Original plan is by End/Dec. 2015
@@ -135,8 +135,9 @@
 * Computer Vision & Object Recognition (Taipei team)
  * by End/Mar. 2016 
 * Speech Interaction (Denis's team)
+ * by End/Nov. 2015 
 * Arms Trajactory Control (Taipei team)
- * by End/Jan. 
+ * by End/Jan. 2016 
 
 
 # References
