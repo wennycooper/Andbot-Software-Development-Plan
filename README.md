@@ -127,9 +127,9 @@
  * Original plan is by End/Dec. 2015
 * Navigation & Obstacles Avoidance  (Taipei team)
  * Done on 2015/11/05
- * Original plan is on End/Nov. 2015
+ * Original plan is by End/Nov. 2015
 * SLAM (Taipei team)
- * Done in 2015/11/05
+ * Done on 2015/11/05
  * Original plan is by End/Dec. 2015
 * Telepresence (Denis's team)
  * by End/Jan. 2016 
