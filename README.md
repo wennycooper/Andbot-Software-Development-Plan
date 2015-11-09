@@ -111,7 +111,8 @@
 * Even more, the robot can carry the object and put it to somewhere destinated. 
 * We will leverage ROS MoveIt,  http://moveit.ros.org/
 
-
+## Audo Docking
+* When the power is low, or the robot received command to go to base dock, it should automously move to the docking station to charge the power.
 
 
 
@@ -137,6 +138,8 @@
 * Speech Interaction (Denis's team)
  * by End/Nov. 2015 
 * Arms Trajactory Control (Taipei team)
+ * by End/Jan. 2016 
+* Auto Docking (Taipei team)
  * by End/Jan. 2016 
 
 
